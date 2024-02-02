@@ -3,12 +3,15 @@
 
 ### App Description
 Submitted by: Ramazan Korucu
+
 Time Spent: 45 minutes 
-#This app will allow us to introduce ourselves by accepting user inputs in various forms, such as switches, text fields, segmented controls, color well, etc. It uses User Defaults to persist input data.
+ 
+ This app will allow us to introduce ourselves by accepting user inputs in various forms, such as switches, text fields, segmented controls, color well, etc. It uses User Defaults to persist input data.
 
 ### App Walk-though
 https://github.com/rkorucu/Codepath-prework-project
 
+<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
 ### Required Features
 The following **required** functionality is complete:
