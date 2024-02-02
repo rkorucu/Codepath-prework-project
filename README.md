@@ -11,7 +11,13 @@ Time Spent: 45 minutes
 ### App Walk-though
 https://github.com/rkorucu/Codepath-prework-project
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+## Video Walkthrough 
+
+Here's a walkthrough of implemented user stories:
+
+https://github.com/rkorucu/Codepath-prework-project/assets/68940507/72e00b36-7214-4957-9a3d-e12018254524
+
+
 
 ### Required Features
 The following **required** functionality is complete:
